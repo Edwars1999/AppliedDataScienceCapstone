@@ -1,0 +1,16 @@
+Flight No.,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Version Booster,Booster landing,Date,Time,Launch Site
+121,,SXM-8,"7,000 kg",GTO,Sirius XM,"Success
+",F9 B5,,6 June 2021,04:26,CCSFS
+,,,,,,,,"{'Flight No.': '121', 'Launch site': [], 'Payload': 'SXM-8', 'Payload mass': '7,000 kg', 'Orbit': 'GTO', 'Customer': 'Sirius XM', 'Launch outcome': 'Success\n', 'Version Booster': 'F9 B5', 'Booster landing': {...}, 'Date': '6 June 2021', 'Time': '04:26', 'Launch Site': 'CCSFS'}",,,
+,,,,,,,,Sirius XM,,,
+,,,,,,,,6 June 2021,,,
+,,,,,,,,121,,,
+,,,,,,,,CCSFS,,,
+,,,,,,,,"Success
+",,,
+,,,,,,,,[],,,
+,,,,,,,,GTO,,,
+,,,,,,,,SXM-8,,,
+,,,,,,,,"7,000 kg",,,
+,,,,,,,,04:26,,,
+,,,,,,,,F9 B5,,,
